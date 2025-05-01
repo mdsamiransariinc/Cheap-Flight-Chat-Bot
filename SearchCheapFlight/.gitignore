@@ -6,3 +6,12 @@ Thumbs.db
 .env
 .env.*
 
+# Ignore session files
+*.session
+*.session-journal
+
+
+bot.session
+bot.session-journal
+my_bot.session
+my_bot.session-journal
